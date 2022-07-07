@@ -21,7 +21,7 @@ global.APIKeys = {
 
 global.alivemsg = `Hey There! Bot Online now. 🤴♥️
 
-Developer: Sadaka
+Developer: Sαԃαƙα
 
 Official Website: https://sites.google.com/view/red-dragon-bot/home
 
@@ -29,11 +29,11 @@ Tik Tok channel : https://vt.tiktok.com/ZSR1bHmqb/
 
 Thank You For Using Red Dragon 💞` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+94781251044'] //Owner number in aive msg
-global.premium = ['+94781251044'] //Owner Number info
-global.ownernomer = '+94781251044' //Owner Number <<<
+global.owner = ['+94776195079'] //Owner number in aive msg
+global.premium = ['+94776195079'] //Owner Number info
+global.ownernomer = '+94776195079' //Owner Number <<<
 
-global.ownername = '𝚂𝚊𝚍𝚊𝚔𝚊' //Owner Name
+global.ownername = 'Sαԃαƙα' //Owner Name
 global.botname = ' 𝚁𝚎𝚍 𝙳𝚛𝚊𝚐𝚘𝚗 ' //Bot Name
 
 global.button = 'TikTok' //Costomize A Button Name In Alive Message
@@ -42,12 +42,12 @@ global.btnurl = 'https://vt.tiktok.com/ZSR1bHmqb/' //Change Your Button's URL
 global.region = 'India, South India, Kerala' //Country Region
 
 global.packname = '𝚁𝚎𝚍 𝙳𝚛𝚊𝚐𝚘𝚗' //Bot Pacage Name
-global.author = '𝚂𝚊𝚍𝚊𝚔𝚊' //Author Name
+global.author = 'Sαԃαƙα' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '©_Kumuthu.' //In list menu
+global.footer = '@𝚁𝚎𝚍 𝙳𝚛𝚊𝚐𝚘𝚗' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
 global.ig = 'https://github.com/prabhasha2006' //Github Account!

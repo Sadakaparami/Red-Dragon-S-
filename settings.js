@@ -19,23 +19,30 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is 𝙺𝚒𝚗𝚐 𝙺𝙿 𝙱𝚘𝚝 2022 🇱🇰
-My Creator is ⃝☠☜׀ˣ☬ I♥ αм   ⃟ᴷᵁˢᴴᴬᴺ𒆜⃝♚` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `Hey There! Bot Online now. 🤴🏻♥️
 
-global.owner = ['+94768575728'] //Owner number in aive msg
-global.premium = ['+94768575728'] //Owner Number info
-global.ownernomer = '+94768575728' //Owner Number <<<
+Developer: Black Amda
 
-global.ownername = '😎⃝☠☜׀ˣ☬ I♥ αм   ⃟ᴷᵁˢᴴᴬᴺ𒆜⃝♚' //Owner Name
-global.botname = ' ☬𝐊𝐢𝐧𝐠 𝐊𝐏 𝐁𝐨𝐭 2022 🇱🇰༒' //Bot Name
+Official Website: https://sites.google.com/view/red-dragon-bot/home
 
-global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://youtu.be/E5C-lrl_g9I' //Change Your Button's URL
+Tik Tok channel : https://vt.tiktok.com/ZSR1bHmqb/
+
+Thank You For Using Red Dragon 💞` //Costomize Alive Message (type your message in `` )
+
+global.owner = ['+94781251044'] //Owner number in aive msg
+global.premium = ['+94781251044'] //Owner Number info
+global.ownernomer = '+94781251044' //Owner Number <<<
+
+global.ownername = '𝚂𝚊𝚍𝚊𝚔𝚊' //Owner Name
+global.botname = ' 𝚁𝚎𝚍 𝙳𝚛𝚊𝚐𝚘𝚗 ' //Bot Name
+
+global.button = 'TikTok' //Costomize A Button Name In Alive Message
+global.btnurl = 'https://vt.tiktok.com/ZSR1bHmqb/' //Change Your Button's URL
 
 global.region = 'Sri Lanka, North Western, Puttalama' //Country Region
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '😎𝗞𝘂𝘀𝗵𝗮𝗻 𝗣𝗿𝗮𝗺𝗼𝗱❯❯' //Author Name
+global.packname = '𝚁𝚎𝚍 𝙳𝚛𝚊𝚐𝚘𝚗' //Bot Pacage Name
+global.author = '𝚂𝚊𝚍𝚊𝚔𝚊' //Author Name
 global.prefa = ['','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
@@ -49,14 +56,14 @@ global.ig = 'https://github.com/prabhasha2006' //Github Account!
 global.mess = { // cOSTOMIZE WITH YOUR LANGUAGE
 	
     success: 'Done ✅',
-    admin: 'Only Admins can use it!😉',
-    botAdmin: 'Bot wants to be an Admin😥',
-    owner: 'Only Owner can use this!😉',
+    admin: 'Only Admins can use it!',
+    botAdmin: 'Bot wants to be an Admin',
+    owner: 'Only Owner can use this!',
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
-    error: 'Error!!! Maybe Api Key Is Expired🤔!',
+    bot: 'This Feature Is Only For Bot',
+    wait: 'Please Wait...',
+    error: 'Error!!! Maybe Api Key Is Expired!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
 // DO NOT CHANGE \\

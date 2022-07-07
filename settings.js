@@ -19,23 +19,30 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is RED DRAGON
-My Creator is Samdaka` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `Hey There! Bot Online now. 🤴♥️
 
-global.owner = ['+94720829190'] //Owner number in aive msg
-global.premium = ['+94720829190'] //Owner Number info
-global.ownernomer = '+94720829190' //Owner Number <<<
+Developer: Sadaka
 
-global.ownername = 'Samdaka' //Owner Name
-global.botname = ' ☬RED༒DRAGON࿐' //Bot Name
+Official Website: https://sites.google.com/view/red-dragon-bot/home
+
+Tik Tok channel : https://vt.tiktok.com/ZSR1bHmqb/
+
+Thank You For Using Red Dragon 💞` //Costomize Alive Message (type your message in `` )
+
+global.owner = ['+94781251044'] //Owner number in aive msg
+global.premium = ['+94781251044'] //Owner Number info
+global.ownernomer = '+94781251044' //Owner Number <<<
+
+global.ownername = '𝚂𝚊𝚍𝚊𝚔𝚊' //Owner Name
+global.botname = ' 𝚁𝚎𝚍 𝙳𝚛𝚊𝚐𝚘𝚗 ' //Bot Name
 
 global.button = 'TikTok' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://vt.tiktok.com/ZSR1bHmqb/' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = 'Samdaka' //Author Name
+global.packname = '𝚁𝚎𝚍 𝙳𝚛𝚊𝚐𝚘𝚗' //Bot Pacage Name
+global.author = '𝚂𝚊𝚍𝚊𝚔𝚊' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
@@ -48,14 +55,14 @@ global.ig = 'https://github.com/prabhasha2006' //Github Account!
 global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
 	
     success: 'Done ✅',
-    admin: 'Only Admins can use it! 😉',
-    botAdmin: 'Bot wants to be an Admin 😥',
-    owner: 'Only Owner can use this!😉',
+    admin: 'Only Admins can use it! ',
+    botAdmin: 'Bot wants to be an Admin ',
+    owner: 'Only Owner can use this!',
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot 😝',
-    wait: '👉👈 Pleas Wait...',
-    error: 'Error!!! Maybe Api Key Is Expired 🤔!',
+    bot: 'This Feature Is Only For Bot ',
+    wait: 'Please Wait...',
+    error: 'Error!!! Maybe Api Key Is Expired !',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
 // DO NOT CHANGE \\

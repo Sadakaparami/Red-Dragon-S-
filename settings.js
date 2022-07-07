@@ -19,23 +19,23 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is RED DRAGON🔥
-My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `My name is RED DRAGON
+My Creator is Samdaka` //Costomize Alive Message (type your message in `` )
 
 global.owner = ['+94720829190'] //Owner number in aive msg
 global.premium = ['+94720829190'] //Owner Number info
 global.ownernomer = '+94720829190' //Owner Number <<<
 
-global.ownername = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖' //Owner Name
+global.ownername = 'Samdaka' //Owner Name
 global.botname = ' ☬RED༒DRAGON࿐' //Bot Name
 
-global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://youtu.be/E5C-lrl_g9I' //Change Your Button's URL
+global.button = 'TikTok' //Costomize A Button Name In Alive Message
+global.btnurl = 'https://vt.tiktok.com/ZSR1bHmqb/' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
 global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯' //Author Name
+global.author = 'Samdaka' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
@@ -48,14 +48,14 @@ global.ig = 'https://github.com/prabhasha2006' //Github Account!
 global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
 	
     success: 'Done ✅',
-    admin: 'Only Admins can use it!😉',
-    botAdmin: 'Bot wants to be an Admin😥',
+    admin: 'Only Admins can use it! 😉',
+    botAdmin: 'Bot wants to be an Admin 😥',
     owner: 'Only Owner can use this!😉',
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
-    error: 'Error!!! Maybe Api Key Is Expired🤔!',
+    bot: 'This Feature Is Only For Bot 😝',
+    wait: '👉👈 Pleas Wait...',
+    error: 'Error!!! Maybe Api Key Is Expired 🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
 // DO NOT CHANGE \\

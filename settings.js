@@ -33,7 +33,7 @@ global.owner = ['+94776195079'] //Owner number in aive msg
 global.premium = ['+94776195079'] //Owner Number info
 global.ownernomer = '+94776195079' //Owner Number <<<
 
-global.ownername = 'Sαԃαƙα' //Owner Name
+global.ownername = ' Sαԃαƙα ' //Owner Name
 global.botname = ' 𝚁𝚎𝚍 𝙳𝚛𝚊𝚐𝚘𝚗 ' //Bot Name
 
 global.button = 'TikTok' //Costomize A Button Name In Alive Message
@@ -41,8 +41,8 @@ global.btnurl = 'https://vt.tiktok.com/ZSR1bHmqb/' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '𝚁𝚎𝚍 𝙳𝚛𝚊𝚐𝚘𝚗' //Bot Pacage Name
-global.author = 'Sαԃαƙα' //Author Name
+global.packname = ' 𝚁𝚎𝚍 𝙳𝚛𝚊𝚐𝚘𝚗 ' //Bot Pacage Name
+global.author = ' Sαԃαƙα ' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
